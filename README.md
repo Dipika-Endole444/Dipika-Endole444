@@ -1,18 +1,33 @@
 - 👋 Hi, I’m @Dipika-Endole444 [Data Analyst]
-- Welcome to my GitHub profile! I’m a passionate data enthusiast with a knack for turning raw data into meaningful insights.
-- I recently started my journey in data analysis and I'm excited to share my work with the community.
-- 👀 I’m interested in learning new technologies and update my skill set.
-- 🌱 My learning goals are Deepen knowledge of machine learning algorithms for predictive analytics.
-Master advanced SQL for complex queries.
-Explore Big Data tools like Apache Hadoop and Spark
-- 🚀 Skills & Tools
-   Languages: Python, SQL, R
-   Libraries: Pandas, NumPy, Matplotlib, Seaborn
-   Databases: MySQL, PostgreSQL
-   Tools: Excel, Power BI, Tableau, Google Data Studio
-   Statistics: Descriptive Statistics, Probability, Hypothesis Testing
-   Data Cleaning & Wrangling: Experience in handling messy data
-   Data Visualization: Creating insightful visual reports
+
+🎯 Data Engineer | 🔍 Data-Driven Problem Solver | ☁️ Cloud & Big Data Enthusiast
+
+---
+
+## 🚀 About Me
+
+I'm a Data Engineer passionate about building robust, scalable, and efficient data systems that help teams turn raw data into meaningful insights.
+
+- 🛠️ Experienced in **designing data pipelines**, **building data platforms**, and **orchestrating workflows**
+- 💡 Strong advocate for **data quality**, **automation**, and **continuous improvement**
+- ☁️ Skilled in working across cloud platforms like **AWS**, **GCP**, and **Azure**
+- 📊 Committed to empowering analytics and machine learning through well-structured data
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, SQL, Bash  
+**Data Tools:** Apache Airflow, dbt, Apache Spark, Kafka, Pandas  
+**Cloud Platforms:** AWS (Glue, S3, Redshift),  
+**Data Warehousing:** Snowflake, Delta Lake, PostgreSQL  
+**Infrastructure:** GitHub Actions  
+**Visualization:** Metabase, Tableau, 
+
+---
+
+> *"In God we trust, all others must bring data." – W. Edwards Deming*
+
 - 📫 How to reach me
  Email: dipikaendole444@gmail.com
 LinkedIn: https://www.linkedin.com/in/dipika-endole-04569631b/ 
